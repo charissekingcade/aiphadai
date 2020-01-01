@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://edufeesahw.23to2.com/sitemap.xml
